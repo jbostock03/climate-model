@@ -1,7 +1,7 @@
 # Understanding Insolation on Earth
 Climate Communication Project for ATM S 321 at University of Washington
 
-OPEN WITH MYBINDER.ORG
+OPEN WITH MYBINDER.ORG: 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jbostock03/uw-atms321-project/HEAD?urlpath=%2Fdoc%2Ftree%2Fclimate-model.ipynb)
 
 Brief:
