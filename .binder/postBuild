@@ -1,2 +1,2 @@
 #!/bin/bash
-jupyter labextension enable --user --py widgetslabextension --sys-prefix
+jupyter labextension enable --py widgetslabextension --sys-prefix
