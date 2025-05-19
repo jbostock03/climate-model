@@ -1,0 +1,6 @@
+numpy
+matplotlib
+datetime
+ipywidgets
+IPython
+notebook
