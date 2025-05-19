@@ -2,5 +2,6 @@ numpy
 matplotlib
 datetime
 ipywidgets
+jupyterlab_widgets
 IPython
 notebook
