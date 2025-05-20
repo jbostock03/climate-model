@@ -10,12 +10,5 @@ COPY . /home/jovyan/
 # Make all notebooks trusted
 RUN find /home/jovyan -name "*.ipynb" -exec jupyter trust {} \;
 
-# Make custom start script executable
-COPY .binder/start /usr/local/bin/start
-RUN chmod +x /usr/local/bin/start
-
-# Use it as the entrypoint if needed
-ENTRYPOINT ["/usr/local/bin/start"]
-
 # Default command (launch JupyterLab)
 CMD ["start.sh"]
