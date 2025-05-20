@@ -1,7 +1,7 @@
 # Understanding Insolation on Earth
 Climate Communication Project for ATM S 321 at University of Washington
 
-To open the Notebook `climate-model.ipynb`, use mybinder.org at the following link:
+To open the Notebook `climate-model.ipynb`, use mybinder.org here -->
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jbostock03/uw-atms321-project/HEAD?urlpath=%2Fdoc%2Ftree%2Fclimate-model.ipynb)
 
 ## Brief
