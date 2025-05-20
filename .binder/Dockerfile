@@ -10,8 +10,5 @@ COPY . /home/jovyan/
 # Make all notebooks trusted
 RUN find /home/jovyan -name "*.ipynb" -exec jupyter trust {} \;
 
-# Execute all notebooks
-RUN find /home/jovyan -name "*.ipynb" -exec jupyter nbconvert --to notebook --execute --inplace --allow-errors {} \;
-
 # Default command (launch JupyterLab)
 CMD ["start.sh"]
