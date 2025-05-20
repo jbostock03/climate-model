@@ -1,0 +1,6 @@
+#!/bin/bash
+# Re-trust all notebooks
+find /home/jovyan -name "*.ipynb" -exec jupyter trust {} \;
+
+# Continue with default startup
+exec "$@"
