@@ -30,7 +30,7 @@ The notebook allows users to experiment with albedo, latitude, and time of year 
 ## Author
 [Josh Bostock](https://github.com/jbostock03)
 
-This mini project was created as part of the _Climate Communication Project_ for the course _ATM S 321: The Science of Climate_ at the University of Washington.
+This mini project was created as part of the _Climate Communication Project_ for the course _ATM S 321: The Science of Climate_ at the University of Washington (May 2025).
 
 ## Acknowledgements
 
